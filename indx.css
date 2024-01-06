@@ -5,3 +5,9 @@ body{
 .row{
    border: 2px solid rgb(254, 127, 1);
 }
+
+.img-1{
+   width: 100%;
+   height: 100%;
+
+}
